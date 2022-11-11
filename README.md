@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @linconbarasino
 - 👀 I’m interested in ...aprender cada vez mais programação 
-- 🌱 I’m currently learning ...Estudando análise e desenvolvimento de sistemas primeiro semestre
-- 💞️ I’m looking to collaborate on ...Java.C#.HTML.C.C++
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...Java.C#.HTML.C.C++.GITHUB 
 - 📫 How to reach me ...lincon.barasino@hotmail.com ou 11988120543
 
 <!---
